@@ -1,6 +1,9 @@
 {
   "description": "Accessibility Exercises",
   "version": "1.0.0",
+  "scripts": {
+    "start":"node accessibility-exercises.node.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }

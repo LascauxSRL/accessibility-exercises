@@ -10,5 +10,5 @@ const path = require('path');
 app.use('/meetup', express.static(path.join(__dirname, 'meetup')));
 
 app.listen(port, () => {
-  console.log(`${appName} is listening on port ${port}`)
+  console.log(`${appName} server is listening on port ${port}`)
 });
