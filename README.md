@@ -3,6 +3,7 @@
 ## Come avviare l'esercizio
 
 Eseguire i seguenti comandi nel terminale aperto nella cartella del progetto
+
 ```
 npm i
 npm run start
