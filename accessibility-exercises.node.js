@@ -8,6 +8,7 @@ const port = 3001;
 const path = require('path');
 
 app.use('/meetup', express.static(path.join(__dirname, 'meetup')));
+app.use('/pagine-gialle', express.static(path.join(__dirname, 'pagine-gialle')));
 app.use('/wildlife', express.static(path.join(__dirname, 'wildlife')));
 
 app.listen(port, () => {

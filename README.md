@@ -9,4 +9,9 @@ npm i
 npm run start
 ```
 
-Quando vedrai nel terminale **"Accessibility Exercises server is listening on port 3001"**, naviga alla url **http://localhost:3001/meetup** per iniziare la tua analisi.
+Quando vedrai nel terminale **"Accessibility Exercises server is listening on port 3001"**, Potrai accedere ai seguenti esercizi:
+
+- Meetup -> **http://localhost:3001/meetup**
+- Wildlife -> **http://localhost:3001/wildlife**
+- Pagine Gialle -> **http://localhost:3001/pagine-gialle**
+
